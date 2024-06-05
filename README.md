@@ -38,3 +38,8 @@ Enhancing safety and improving the driving experience are key outcomes of this w
 | dense (Dense)      | (None, 500)       | 240,500         |
 | dropout 1 (Dropout)| (None, 500)       | 0               |
 | dense 1 (Dense)    | (None, 43)        | 21,543          |
+
+## Results
+
+The results obtained on the test set demonstrate that the model can accurately classify traffic signs. However, further testing is required to evaluate the performance under real-world conditions.
+
