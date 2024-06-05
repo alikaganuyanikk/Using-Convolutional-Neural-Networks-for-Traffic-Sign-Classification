@@ -45,11 +45,11 @@ The results obtained on the test set demonstrate that the model can accurately c
 <div align="center">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="images/Resim46.PNG" alt="Result1" width="400">
-    <p><em>Caption for Result 1</em></p>
+    <p><em></em></p>
   </div>
   <div style="display: inline-block;">
     <img src="images/Resim47.PNG" alt="Result2" width="400">
-    <p><em>Caption for Result 2</em></p>
+    <p><em></em></p>
   </div>
 </div>
 
