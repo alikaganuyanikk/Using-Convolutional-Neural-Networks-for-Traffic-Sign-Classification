@@ -53,3 +53,10 @@ The results obtained on the test set demonstrate that the model can accurately c
   </div>
 </div>
 
+## Test Results
+
+| Metric         | Score            |
+|----------------|------------------|
+| Test Score     | 0.0619           |
+| Test Accuracy  | 0.9845           |
+
