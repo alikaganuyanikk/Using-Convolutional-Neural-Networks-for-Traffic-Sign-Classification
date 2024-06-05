@@ -62,5 +62,14 @@ The results obtained on the test set demonstrate that the model can accurately c
 
 ## Images from the project
 
-
+<div align="center">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="images/Resim51.PNG" alt="Result1" width="400">
+    <p><em></em></p>
+  </div>
+  <div style="display: inline-block;">
+    <img src="images/Resim52.PNG" alt="Result2" width="400">
+    <p><em></em></p>
+  </div>
+</div>
 
