@@ -18,4 +18,7 @@ The combination of deep learning and image processing techniques provides an eff
 ### Impact
 Enhancing safety and improving the driving experience are key outcomes of this work.
 
-
+<div align="center">
+  <img src="images/Resim52.png" alt="Example Image">
+  <p><em>Applied classification layer structure</em></p>
+</div>
