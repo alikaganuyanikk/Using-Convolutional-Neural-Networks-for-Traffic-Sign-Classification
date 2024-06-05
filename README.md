@@ -42,4 +42,11 @@ Enhancing safety and improving the driving experience are key outcomes of this w
 ## Results
 
 The results obtained on the test set demonstrate that the model can accurately classify traffic signs. However, further testing is required to evaluate the performance under real-world conditions.
-
+<div align="center">
+  <img src="images/Resim46.PNG" alt="Result1">
+  <p><em></em></p>
+</div>
+<div align="center">
+  <img src="images/Resim47.PNG" alt="Result2">
+  <p><em></em></p>
+</div>
